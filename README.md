@@ -1,5 +1,4 @@
-# -
-提问的智慧
+# 提问的智慧
 # 提问的智慧
 Eric Steven Raymond, [Thyrsus Enterprises](http://www.catb.org/~esr/), < [esr@thyrsus.com](esr@thyrsus.com) ><br>
 Rick Moen, < [respond-auto@linuxmafia.com](respond-auto@linuxmafia.com) >
